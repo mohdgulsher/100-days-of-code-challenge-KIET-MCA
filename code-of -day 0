@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+<div style="text-align: center;"><h1><font color="chili pepper">WELCOME TO PROFILE </font></h1></div>
+ 
+<title>Mohd Gulsher Who Live For Coding </title>
+</head>
+
+<body bgcolor="#E6E6FA">
+
+<div style="text-align: right;"><IMG SRC="gul1.jpg" ALT="image"width="150" height=150"></div>
+
+<h1>Mohd Gulsher</h1>
+
+
+
+ <h2>profile summary</h2>
+<p>"Progarmmer,Smart Worker,Open Minded & Good friend."</p>
+
+<h2>Personal Information:</h2>
+<ul>
+<li>Father Name: Mohd Afjal</li>
+<li>Dob:10 march 1996</li>
+<li>Religion:Muslim</li>
+<li>Nationality:Indian</li>
+</ul><hr>
+
+<h2>Education credentials:</h2>
+<table>
+<tr id="heading">
+<th>Name of Degree</th>
+<th>University</th>
+<th>Major</th>
+<th>CGPA</th>
+</tr>
+<tr>
+<td>10th(2012)</td>
+<td>Up Board</td>
+<td>math</td>
+<td>75%</td>
+</tr>
+<tr>
+<td>12th(2014)</td>
+<td>Up board</td>
+<td>math</td>
+<td>70%</td>
+</tr>
+
+<tr>
+<td>Bacheler of Computer Applications(2017)</td>
+<td>CCS Univesity</td>
+<td>Computers</td>
+<td>60%</td>
+</tr>
+</table><hr>
+
+<h2>Progaramming Language:</h2>
+<ul>
+
+<li>HTML</li>
+<li>C & C++</li>
+<li>JS</li>
+<li>Java</li>
+</ul><hr>
+
+<h2>Hobbies:</h2>
+<ul>
+<li>Playing Cricket</li>
+<li>Football</li>
+<li>listing Music</li>
+</ul><hr>
+
+
+<h2>project:</h2>
+<h3>Sport Duniya </h3>
+<p>my project help for those person who wants to be learn about all the essentials rules and regulations of the games</p>
+<hr>
+
+
+<h3>You Can Connet Me On:</h3>
+<p>gulshermalik78600@gmail.com or 8791770811</p>
+<p>my github profile link is <a href="https://github.com/mohdgulsher">Github</a>
+<p>my linkedin profile link is <a href="https://www.linkedin.com/in/mohdgulsher-malik-3140b616a/">LinkedIn</a>
+
+</body>
+
+</html>
