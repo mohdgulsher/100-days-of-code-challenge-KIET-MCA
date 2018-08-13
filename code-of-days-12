@@ -1,0 +1,17 @@
+#include<stdio.h>
+void main()
+{
+int pow,num,i;
+long int sum=1;
+clrscr();
+printf("enter the number:");
+scanf("%d",&num);
+printf("\n enter the power:");
+scanf("%d",&pow);
+for(i=1;i<=pow;i++)
+{
+sum=sum*num;
+}
+printf("\n%d to the power %d is:%ld",num,pow,sum);
+getch();
+}
