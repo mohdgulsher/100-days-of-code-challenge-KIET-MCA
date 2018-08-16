@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+ {
+int a,n,b=0,t;
+clrscr();
+printf("enter the no");
+scanf("%d",&n);
+t=n;
+while(n>0)
+{
+a=n%10;
+b=b+a*a*a;
+n=n/10;
+}
+if(b==t)
+{
+printf("Armstrong no");
+}
+else
+{
+printf("not an Armstrong no");
+}
+getch();
+}
